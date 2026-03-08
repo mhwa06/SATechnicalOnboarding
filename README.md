@@ -54,11 +54,3 @@ Contributions and improvements are welcome!
 2. Create a feature branch.
 3. Commit your changes.
 4. Open a pull request describing your update.
-
-## License
-
-This project is provided for technical onboarding—add your preferred license here if applicable.
-
----
-
-*Built with* **HTML** *(83%)* *and* **CSS** *(17%)*.
